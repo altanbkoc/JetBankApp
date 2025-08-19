@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Altan Koç**
-- GitHub: [@altankoc](https://github.com/altankoc)
+- GitHub: [@altanbkoc](https://github.com/altanbkoc)
 
 ---
 
