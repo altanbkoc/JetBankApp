@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JetBank</string>
+    <string name="search_by_city">Arama</string>
+    <string name="try_again">Tekrar dene</string>
+    <string name="no_search_data_found">Arama verisi bulunamadı.</string>
+    <string name="no_internet_connection">Internet bağlantısı yok.</string>
+    <string name="no_internet_connection_desc">Internet bağlantını kontrol et.</string>
+    <string name="city">Şehir: </string>
+    <string name="district">İlçe: </string>
+    <string name="bank_branh">Banka Şubesi: </string>
+    <string name="bank_type">Banka Türü: </string>
+    <string name="bank_code">Banka Kodu: </string>
+    <string name="address_name">Adres Adı: </string>
+    <string name="address">Adres: </string>
+    <string name="postal_code">Posta Kodu</string>
+    <string name="on_off_line">Çevrimiçi/Çevrimdışı: </string>
+    <string name="on_off_site">Site İçi/Site Dışı: </string>
+    <string name="region_coordinator">Bölge Koordinatörü: </string>
+    <string name="nearest_atm">En Yakın ATM: </string>
+</resources>
